@@ -170,7 +170,7 @@ Compiled wordlists for Pentesters — Brazilian context
 <div align="center">
 
 <a href="https://github.com/mrhenrike">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mrhenrike&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrhenrike&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 </a>
 <a href="https://github.com/mrhenrike">
 <img height="160" src="https://streak-stats.demolab.com?user=mrhenrike&theme=github-dark-blue&hide_border=true" />
@@ -178,7 +178,15 @@ Compiled wordlists for Pentesters — Brazilian context
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhenrike&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<a href="https://github.com/mrhenrike">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrhenrike&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</a>
+
+<br>
+
+<a href="https://github.com/vn7n24fzkq/github-user-contribution">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrhenrike&theme=github_dark" />
+</a>
 
 </div>
 
