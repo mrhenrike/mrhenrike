@@ -208,6 +208,16 @@ Compiled wordlists for Pentesters — Brazilian context
 
 ---
 
+<!-- LEGAL-NOTICE-UG-MRH -->
+
+## Legal notice / aviso legal
+
+Profile README and related files in this repository are licensed under **MIT** (see [LICENSE](LICENSE)). **No warranty**; **no liability** for misuse or third-party claims — **use at your own risk**. Preserve **attribution** to the author when reusing; **issues** and contributions via **pull request** are welcome where applicable.
+
+O README de perfil e ficheiros associados usam **MIT** (ver [LICENSE](LICENSE)). **Sem garantias**; **sem responsabilidade** por uso indevido — **uso por sua conta e risco**. Mantenha **atribuição** ao autor.
+
+---
+
 ## ☕ Support / PIX
 
 If my projects helped you, feel free to contribute! **PIX** is a Brazilian instant payment method.
