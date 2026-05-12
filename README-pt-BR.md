@@ -20,7 +20,7 @@
 
 ## 🧠 Sobre Mim
 
-Sou **André Henrique**, Co-Fundador da **União Geek** e **Cybersecurity Advisor @ SafeLabs (ISH Tech)** — com **mais de 15 anos** protegendo infraestruturas críticas, especialista em **Segurança Ofensiva & Defensiva** em ambientes de IT, OT, ICS, SCADA, IoT e IIoT.
+Sou **André Henrique**, Co-Fundador da **União Geek** e **Cybersecurity Advisor @ VisionCybersecurity** — com **mais de 20 anos** protegendo infraestruturas críticas, especialista em **Segurança Ofensiva & Defensiva** em ambientes de IT, OT, ICS, SCADA, IoT e IIoT.
 
 - 🎓 **Professor Acadêmico** — OT/ICS/SCADA Security
 - 🏴 **8º lugar — BlackHat CTF 2018**
