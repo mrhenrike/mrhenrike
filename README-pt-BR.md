@@ -68,27 +68,58 @@ Sou **André Henrique**, Co-Fundador da **União Geek** e **Cybersecurity Adviso
 
 ## 🚀 Projetos em Destaque
 
+> **XPL-Forge Suite** — frameworks ofensivos modulares para ecossistemas embarcados, impressoras, wireless e (em breve) perímetro.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🖨️ [PrinterReaper](https://github.com/mrhenrike/PrinterReaper)
-Toolkit completo para pentesting de impressoras — **Production Ready v2.5.3**
+### 🛰️ [EmbedXPL-Forge](https://github.com/mrhenrike/EmbedXPL-Forge)
+Framework de avaliação de segurança para dispositivos embarcados
+- **700+ módulos · 350 CVEs · 55 fabricantes**
+- Roteadores, câmeras IP, GPON ONTs, CPEs de ISP, IoT edge
+- **APT Group Engine** (APT28, dns-hijack chains, MikroTik, TP-Link)
+- `pip install embedxpl`
+
+[![Stars](https://img.shields.io/github/stars/mrhenrike/EmbedXPL-Forge?style=flat-square&logo=github&color=f0c040)](https://github.com/mrhenrike/EmbedXPL-Forge)
+[![Forks](https://img.shields.io/github/forks/mrhenrike/EmbedXPL-Forge?style=flat-square&logo=github)](https://github.com/mrhenrike/EmbedXPL-Forge/forks)
+
+</td>
+<td width="50%" valign="top">
+
+### 🖨️ [PrinterXPL-Forge](https://github.com/mrhenrike/PrinterXPL-Forge)
+Toolkit completo de pentesting de impressoras (sucessor do *PrinterReaper*)
 - **109 comandos** em PJL, PostScript & PCL
 - 4 protocolos de rede, descoberta automática SNMP
 - Exfiltração de arquivos, acesso NVRAM & payloads de ataque
+- Ferramenta ofensiva moderna em Python 3.8+
 
-[![Stars](https://img.shields.io/github/stars/mrhenrike/PrinterReaper?style=flat-square&logo=github&color=f0c040)](https://github.com/mrhenrike/PrinterReaper)
-[![Forks](https://img.shields.io/github/forks/mrhenrike/PrinterReaper?style=flat-square&logo=github)](https://github.com/mrhenrike/PrinterReaper)
+[![Stars](https://img.shields.io/github/stars/mrhenrike/PrinterXPL-Forge?style=flat-square&logo=github&color=f0c040)](https://github.com/mrhenrike/PrinterXPL-Forge)
+[![Forks](https://img.shields.io/github/forks/mrhenrike/PrinterXPL-Forge?style=flat-square&logo=github)](https://github.com/mrhenrike/PrinterXPL-Forge/forks)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 [WirelessXPL-Forge](https://github.com/mrhenrike/WirelessXPL-Forge)
+Superfície de ataque wireless & orquestração de laboratório
+- **Wi-Fi, BLE, AWDL**, rogue AP, mesh, wardriving (Bruce)
+- Análise de PCAP, pipelines com scapy, workflows red team
+- `pip install wirelessxpl` · BSD-3-Clause
+
+[![Stars](https://img.shields.io/github/stars/mrhenrike/WirelessXPL-Forge?style=flat-square&logo=github&color=f0c040)](https://github.com/mrhenrike/WirelessXPL-Forge)
+[![Forks](https://img.shields.io/github/forks/mrhenrike/WirelessXPL-Forge?style=flat-square&logo=github)](https://github.com/mrhenrike/WirelessXPL-Forge/forks)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🗡️ [MikrotikAPI-BF](https://github.com/mrhenrike/MikrotikAPI-BF)
-Ferramenta de força bruta para auditoria da API **Mikrotik RouterOS**
-- Testes de credenciais via API RouterOS
-- Suporte a wordlists & descoberta automática
-- Relatórios detalhados de auditoria
+Framework de Ataque & Exploração de RouterOS — **v3.5.4**
+- **40 exploits CVE/EDB**, Chimay-Red, Winbox
+- MAC-Server L2, decoder de credenciais, analisador NPK
+- Brute-force com 300 threads, auto-instalação NSE do Nmap
+- Scanner de CVEs · pacote `pip`
 
 [![Stars](https://img.shields.io/github/stars/mrhenrike/MikrotikAPI-BF?style=flat-square&logo=github&color=f0c040)](https://github.com/mrhenrike/MikrotikAPI-BF)
 [![Forks](https://img.shields.io/github/forks/mrhenrike/MikrotikAPI-BF?style=flat-square&logo=github)](https://github.com/mrhenrike/MikrotikAPI-BF/forks)
@@ -98,29 +129,32 @@ Ferramenta de força bruta para auditoria da API **Mikrotik RouterOS**
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ [Modbus-Slave-Simulator](https://github.com/mrhenrike/Modbus-Slave-Simulator)
+### ⚙️ [Modbus-Process-Simulator](https://github.com/mrhenrike/Modbus-Process-Simulator)
 Simulador Java do protocolo **MODBUS Slave** para testes OT/ICS
 - Validação de segurança em sistemas de controle industrial
-- ModbusPal Aprimorado
-- Pesquisa de segurança ICS/SCADA
+- Evolução do ModbusPal Enhanced
+- Pesquisa de segurança ICS/SCADA em laboratório
 
-[![Stars](https://img.shields.io/github/stars/mrhenrike/Modbus-Slave-Simulator?style=flat-square&logo=github&color=f0c040)](https://github.com/mrhenrike/Modbus-Slave-Simulator)
-[![Forks](https://img.shields.io/github/forks/mrhenrike/Modbus-Slave-Simulator?style=flat-square&logo=github)](https://github.com/mrhenrike/Modbus-Slave-Simulator)
+[![Stars](https://img.shields.io/github/stars/mrhenrike/Modbus-Process-Simulator?style=flat-square&logo=github&color=f0c040)](https://github.com/mrhenrike/Modbus-Process-Simulator)
+[![Forks](https://img.shields.io/github/forks/mrhenrike/Modbus-Process-Simulator?style=flat-square&logo=github)](https://github.com/mrhenrike/Modbus-Process-Simulator/forks)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔤 [WordListsForHacking](https://github.com/mrhenrike/WordListsForHacking)
-Wordlists compiladas para Pentesters — contexto brasileiro
-- Foco em **ambientes brasileiros reais**
-- Validadas em avaliações reais de clientes
-- Padrões comuns de engajamentos reais
+Toolkit de geração de wordlists para pentest & red team — **25 subcomandos**
+- charset, profile, corp-users, default-creds, password-DNA
+- DNS fuzzing, web scraping, ISP keygen, credenciais ICS/SCADA
+- treino de ML, pipal analysis · `pip install wfh-wordlist`
 
 [![Stars](https://img.shields.io/github/stars/mrhenrike/WordListsForHacking?style=flat-square&logo=github&color=f0c040)](https://github.com/mrhenrike/WordListsForHacking)
+[![Forks](https://img.shields.io/github/forks/mrhenrike/WordListsForHacking?style=flat-square&logo=github)](https://github.com/mrhenrike/WordListsForHacking/forks)
 
 </td>
 </tr>
 </table>
+
+<sub>🛠️ **Em breve:** `FirewallXPL-Forge` (FW/NGFW/UTM/WAF/VPN/NAC/LB e firewalls OT/ICS — 164 módulos, 18 fabricantes) atualmente em desenvolvimento privado.</sub>
 
 ---
 
