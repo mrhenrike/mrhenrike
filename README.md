@@ -199,28 +199,34 @@ Wordlist generation toolkit for pentest & red team — **25 subcommands**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
-<a href="https://github.com/mrhenrike">
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrhenrike&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-</a>
-<a href="https://github.com/mrhenrike">
-<img height="160" src="https://streak-stats.demolab.com?user=mrhenrike&theme=github-dark-blue&hide_border=true" />
-</a>
+### 🏆 Profile Stats
 
-<br>
+<table>
+<tr>
+<td align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrhenrike&show_icons=true&theme=dark&bg_color=0D1117&text_color=3fb950&title_color=3fb950&icon_color=2ea043&border_color=30363d&hide_border=true&include_all_commits=true&count_private=true&line_height=27&custom_title=André's%20GitHub%20Analytics&show_owner=true" alt="GitHub Stats" />
+</td>
+<td align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrhenrike&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
+</td>
+</tr>
+</table>
 
-<a href="https://github.com/mrhenrike">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrhenrike&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</a>
+### ⚡ Contribution Graph
 
-<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrhenrike&bg_color=0D1117&color=3fb950&line=2ea043&point=f78166&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 
-<a href="https://github.com/vn7n24fzkq/github-user-contribution">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrhenrike&theme=github_dark" />
-</a>
+### 🌊 Activity Heatmap
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mrhenrike/mrhenrike/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mrhenrike/mrhenrike/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/mrhenrike/mrhenrike/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
