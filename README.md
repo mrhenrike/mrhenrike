@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=620&height=60&lines=Andre+Henrique+%7C+mrhenrike;Ethical+Hacker+%26+OT+Security+Expert;Offensive+%26+Defensive+Security;IoT+%7C+OT+%7C+ICS+%7C+SCADA+%7C+IT+%7C+IIoT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=920&height=70&lines=Andre+Henrique+%7C+mrhenrike;Ethical+Hacker+%26+OT+Security+Expert;Offensive+%26+Defensive+Security;IoT+%7C+OT+%7C+ICS+%7C+SCADA+%7C+IT+%7C+IIoT" alt="Typing SVG" />
 
 <br>
 
@@ -68,7 +68,7 @@ I'm **André Henrique**, Co-Founder of **União Geek** and **Cybersecurity Advis
 
 ## 🚀 Featured Projects
 
-> **XPL-Forge Suite** — modular offensive security frameworks for embedded, printer, wireless and (soon) perimeter ecosystems.
+> **XPL-Forge Suite**: modular offensive security frameworks for embedded, printer, wireless, firewall and OT/ICS ecosystems.
 
 <table>
 <tr>
@@ -141,20 +141,20 @@ Java **MODBUS Protocol** Slave Simulator for OT/ICS testing
 </td>
 <td width="50%" valign="top">
 
-### 🔤 [WordListsForHacking](https://github.com/mrhenrike/WordListsForHacking)
-Wordlist generation toolkit for pentest & red team — **25 subcommands**
+### 🔤 [WordlistXPL-Forge](https://github.com/mrhenrike/WordlistXPL-Forge)
+Wordlist generation toolkit for pentest and red team. **44 subcommands**
 - charset, profile, corp-users, default-creds, password-DNA
 - DNS fuzzing, web scraping, ISP keygen, ICS/SCADA creds
-- ML training, pipal analysis · `pip install wfh-wordlist`
+- ML training, pipal analysis. CLI `wlf` · `pip install wordlistxpl-forge`
 
-[![Stars](https://img.shields.io/github/stars/mrhenrike/WordListsForHacking?style=flat-square&logo=github&color=f0c040)](https://github.com/mrhenrike/WordListsForHacking)
-[![Forks](https://img.shields.io/github/forks/mrhenrike/WordListsForHacking?style=flat-square&logo=github)](https://github.com/mrhenrike/WordListsForHacking/forks)
+[![Stars](https://img.shields.io/github/stars/mrhenrike/WordlistXPL-Forge?style=flat-square&logo=github&color=f0c040)](https://github.com/mrhenrike/WordlistXPL-Forge)
+[![Forks](https://img.shields.io/github/forks/mrhenrike/WordlistXPL-Forge?style=flat-square&logo=github)](https://github.com/mrhenrike/WordlistXPL-Forge/forks)
 
 </td>
 </tr>
 </table>
 
-<sub>🛠️ **Coming soon:** `FirewallXPL-Forge` (FW/NGFW/UTM/WAF/VPN/NAC/LB and OT/ICS firewalls — 164 modules, 18 vendors) is currently in private development.</sub>
+<sub>Also in the suite: [FirewallXPL-Forge](https://github.com/mrhenrike/FirewallXPL-Forge) (FW/NGFW/UTM/WAF/VPN) and [IndustrialXPL-Forge](https://github.com/mrhenrike/IndustrialXPL-Forge) (OT/ICS/SCADA).</sub>
 
 ---
 
@@ -208,7 +208,7 @@ Wordlist generation toolkit for pentest & red team — **25 subcommands**
 <table>
 <tr>
 <td align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrhenrike&show_icons=true&theme=dark&bg_color=0D1117&text_color=3fb950&title_color=3fb950&icon_color=2ea043&border_color=30363d&hide_border=true&include_all_commits=true&count_private=true&line_height=27&custom_title=André's%20GitHub%20Analytics&show_owner=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrhenrike&show_icons=true&theme=dark&bg_color=0D1117&text_color=3fb950&title_color=3fb950&icon_color=2ea043&border_color=30363d&hide_border=true&include_all_commits=true&line_height=27&custom_title=Andre's%20GitHub%20Analytics" alt="GitHub Stats" />
 </td>
 <td align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mrhenrike&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=620&height=60&lines=Andre+Henrique+%7C+mrhenrike;Ethical+Hacker+%26+OT+Security+Expert;Seguranca+Ofensiva+%26+Defensiva;IoT+%7C+OT+%7C+ICS+%7C+SCADA+%7C+IT+%7C+IIoT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=920&height=70&lines=Andre+Henrique+%7C+mrhenrike;Ethical+Hacker+%26+OT+Security+Expert;Seguranca+Ofensiva+%26+Defensiva;IoT+%7C+OT+%7C+ICS+%7C+SCADA+%7C+IT+%7C+IIoT" alt="Typing SVG" />
 
 <br>
 
@@ -68,7 +68,7 @@ Sou **André Henrique**, Co-Fundador da **União Geek** e **Cybersecurity Adviso
 
 ## 🚀 Projetos em Destaque
 
-> **XPL-Forge Suite** — frameworks ofensivos modulares para ecossistemas embarcados, impressoras, wireless e (em breve) perímetro.
+> **XPL-Forge Suite**: frameworks ofensivos modulares para ecossistemas embarcados, impressoras, wireless, firewall e OT/ICS.
 
 <table>
 <tr>
@@ -141,20 +141,20 @@ Simulador Java do protocolo **MODBUS Slave** para testes OT/ICS
 </td>
 <td width="50%" valign="top">
 
-### 🔤 [WordListsForHacking](https://github.com/mrhenrike/WordListsForHacking)
-Toolkit de geração de wordlists para pentest & red team — **25 subcomandos**
+### 🔤 [WordlistXPL-Forge](https://github.com/mrhenrike/WordlistXPL-Forge)
+Toolkit de geração de wordlists para pentest e red team. **44 subcomandos**
 - charset, profile, corp-users, default-creds, password-DNA
 - DNS fuzzing, web scraping, ISP keygen, credenciais ICS/SCADA
-- treino de ML, pipal analysis · `pip install wfh-wordlist`
+- treino de ML, pipal analysis. CLI `wlf` · `pip install wordlistxpl-forge`
 
-[![Stars](https://img.shields.io/github/stars/mrhenrike/WordListsForHacking?style=flat-square&logo=github&color=f0c040)](https://github.com/mrhenrike/WordListsForHacking)
-[![Forks](https://img.shields.io/github/forks/mrhenrike/WordListsForHacking?style=flat-square&logo=github)](https://github.com/mrhenrike/WordListsForHacking/forks)
+[![Stars](https://img.shields.io/github/stars/mrhenrike/WordlistXPL-Forge?style=flat-square&logo=github&color=f0c040)](https://github.com/mrhenrike/WordlistXPL-Forge)
+[![Forks](https://img.shields.io/github/forks/mrhenrike/WordlistXPL-Forge?style=flat-square&logo=github)](https://github.com/mrhenrike/WordlistXPL-Forge/forks)
 
 </td>
 </tr>
 </table>
 
-<sub>🛠️ **Em breve:** `FirewallXPL-Forge` (FW/NGFW/UTM/WAF/VPN/NAC/LB e firewalls OT/ICS — 164 módulos, 18 fabricantes) atualmente em desenvolvimento privado.</sub>
+<sub>Também na suíte: [FirewallXPL-Forge](https://github.com/mrhenrike/FirewallXPL-Forge) (FW/NGFW/UTM/WAF/VPN) e [IndustrialXPL-Forge](https://github.com/mrhenrike/IndustrialXPL-Forge) (OT/ICS/SCADA).</sub>
 
 ---
 
@@ -204,7 +204,7 @@ Toolkit de geração de wordlists para pentest & red team — **25 subcomandos**
 <div align="center">
 
 <a href="https://github.com/mrhenrike">
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrhenrike&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&locale=pt-br" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mrhenrike&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&locale=pt-br" />
 </a>
 <a href="https://github.com/mrhenrike">
 <img height="160" src="https://streak-stats.demolab.com?user=mrhenrike&theme=github-dark-blue&hide_border=true&locale=pt_BR" />
@@ -213,7 +213,7 @@ Toolkit de geração de wordlists para pentest & red team — **25 subcomandos**
 <br>
 
 <a href="https://github.com/mrhenrike">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrhenrike&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=pt-br" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhenrike&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=pt-br" />
 </a>
 
 <br>
